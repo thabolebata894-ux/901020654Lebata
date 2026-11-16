@@ -153,3 +153,19 @@ Perform an action in the app (e.g. login, add/deduct stock, add/update user), th
 
 - A running PostgreSQL instance and correct credentials in `backend/.env` are required for the backend to start and for the frontend to fetch data.
 - Use the Vite dev server (`npm run dev`) to run the frontend; do not open `index.html` directly with a static live server.
+## Screenshots
+
+### Login
+![Login](screenshots/log_in.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Book Management
+![Book Management](screenshots/book_management.png)
+
+### Transactions
+![Transactions](screenshots/transactions.png)
+
+### User Management
+![User Management](screenshots/user_management.png)
